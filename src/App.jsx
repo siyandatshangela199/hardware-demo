@@ -40,7 +40,7 @@ export default function App() {
           {/* Combined multiple locations cleanly */}
           <p>
             <FaMapMarkerAlt size={20} color="#e74c3c" />
-            <span><strong>Locations:</strong> Herschel, Eastern Cape</span>
+            <span><strong>Locations:</strong> Sterkspruit, Eastern Cape</span>
           </p>
           
           <p>
