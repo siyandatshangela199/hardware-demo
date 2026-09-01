@@ -177,7 +177,7 @@ body {
 .no-results {
   grid-column: 1 / -1;
   text-align: center;
-  color: blue;
+  color: red;
 }
 @media (max-width: 600px) {
 
@@ -249,4 +249,9 @@ body {
   .price-tag {
     font-size: 1.1rem;
   }
+  .no-results {
+  text-align: center;
+  color: red;
+}
+
 }
