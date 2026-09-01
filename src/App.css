@@ -60,6 +60,8 @@ body {
 }
 
 .main-header {
+  font-size: 1rem;
+  font-family: Arial, sans-serif;
   background-color: darkgrey;
   text-align: center;
   margin-bottom: 1rem;
@@ -76,6 +78,8 @@ body {
 }
 
 .main-header p {
+  font-size: 1rem;
+  font-family: Arial, sans-serif;
   background-color: #f5f5f5;
   color: #000;
   margin-top: 4px;
@@ -191,6 +195,10 @@ body {
   }
 
   .main-header p {
+    .main-header p {
+  font-size: 1rem;
+  font-family: Arial, sans-serif;
+}
     font-size: 0.85rem;
     padding: 7px;
     gap: 6px;
