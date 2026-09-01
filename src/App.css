@@ -219,7 +219,6 @@ body {
   grid-template-columns: repeat(2, 1fr);
   gap: 10px;
 }
-  }
 
   .product-card {
     width: 100%;
@@ -242,3 +241,4 @@ body {
   .price-tag {
     font-size: 1.1rem;
   }
+}
